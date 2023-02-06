@@ -1,0 +1,121 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:59:34] filterscripts = ""  (string)
+[21:59:34] 
+[21:59:34] Server Plugins
+[21:59:34] --------------
+[21:59:34]  Loading plugin: sscanf
+[21:59:34] 
+[21:59:34]  ===============================
+[21:59:34] 
+[21:59:34]       sscanf plugin loaded.     
+[21:59:34] 
+[21:59:34]          Version: 2.13.8
+[21:59:34] 
+[21:59:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:59:34] 
+[21:59:34]  ===============================
+[21:59:34] 
+[21:59:34]   Loaded.
+[21:59:34]  Loaded 1 plugins.
+
+[21:59:34] 
+[21:59:34] Filterscripts
+[21:59:34] ---------------
+[21:59:34]   Loaded 0 filterscripts.
+
+[21:59:34] 
+----------------------------------
+[21:59:34]  Hoşgeldin Dogukan kodun calisiyor.
+[21:59:34] ----------------------------------
+
+[21:59:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:29] filterscripts = ""  (string)
+[22:02:29] 
+[22:02:29] Server Plugins
+[22:02:29] --------------
+[22:02:29]  Loading plugin: sscanf
+[22:02:29] 
+[22:02:29]  ===============================
+[22:02:29] 
+[22:02:29]       sscanf plugin loaded.     
+[22:02:29] 
+[22:02:29]          Version: 2.13.8
+[22:02:29] 
+[22:02:29]    (c) 2022 Alex "Y_Less" Cole  
+[22:02:29] 
+[22:02:29]  ===============================
+[22:02:29] 
+[22:02:29]   Loaded.
+[22:02:29]  Loaded 1 plugins.
+
+[22:02:29] 
+[22:02:29] Filterscripts
+[22:02:29] ---------------
+[22:02:29]   Loaded 0 filterscripts.
+
+[22:02:29] 
+----------------------------------
+[22:02:29]  Hoşgeldin Dogukan kodun calisiyor.
+[22:02:29] ----------------------------------
+
+[22:02:29] Number of vehicle models: 0
+[22:02:49] [connection] 192.168.1.7:53371 requests connection cookie.
+[22:02:50] [connection] incoming connection: 192.168.1.7:53371 id: 0
+[22:02:50] [join] Dogukan has joined the server (0:192.168.1.7)
+[22:06:30] [part] Dogukan has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:02] filterscripts = ""  (string)
+[22:11:02] 
+[22:11:02] Server Plugins
+[22:11:02] --------------
+[22:11:02]  Loading plugin: sscanf
+[22:11:02] 
+[22:11:02]  ===============================
+[22:11:02] 
+[22:11:02]       sscanf plugin loaded.     
+[22:11:02] 
+[22:11:02]          Version: 2.13.8
+[22:11:02] 
+[22:11:02]    (c) 2022 Alex "Y_Less" Cole  
+[22:11:02] 
+[22:11:02]  ===============================
+[22:11:02] 
+[22:11:02]   Loaded.
+[22:11:02]  Loaded 1 plugins.
+
+[22:11:02] 
+[22:11:02] Filterscripts
+[22:11:02] ---------------
+[22:11:02]   Loaded 0 filterscripts.
+
+[22:11:02] 
+----------------------------------
+[22:11:02]  Hoşgeldin Dogukan kodun calisiyor.
+[22:11:02] ----------------------------------
+
+[22:11:02] Number of vehicle models: 0

@@ -44,11 +44,11 @@
 	#endinput
 #endif
 #define _INC_SSCANF
-#define SSCANF_NO_NICE_FEATURES
 
 #if !defined _samp_included
 	#error Please include <a_npc> or <a_samp> first.
 #endif
+#define SSCANF_NO_NICE_FEATURES
 
 /**
  * <library

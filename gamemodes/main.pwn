@@ -1,5 +1,3 @@
-
-
 #include <a_samp>
 #include <zcmd>
 #include <sscanf2>
@@ -436,23 +434,8 @@ COMMAND:deneme(playerid){
 	return 1;
 }
 
-COMMAND:pm(playerid, params[]){
-	new targetid;
-	new nStr[100];
-    
-    format(nStr, sizeof(nStr), "[ %i ] PM: %s", playerid, nStr);
 
-	if(sscanf(params, "ui", targetid, nStr)){
-		return SendClientError(playerid, "Doğru Kullanım : /pm [ID] [Mesaj]");
-	}
-	else if(targetid == playerid){
-		return SendClientError(playerid, "Kendine PM gönderemezsin!");
-	}else{
-		SendClientMessage(playerid, 0xFF00FF, nStr);
-		SendClientMessage(targetid, 0xFF00FF, nStr);
-	}
-	return 1;
-}
+
 
 
 SendClientError(playerid, str[]){
