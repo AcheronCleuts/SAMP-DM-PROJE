@@ -1,5 +1,6 @@
 #include <a_samp>
 #include <zcmd>
+#include <a_mysql>
 #include <sscanf2>
 
 #if defined FILTERSCRIPT
