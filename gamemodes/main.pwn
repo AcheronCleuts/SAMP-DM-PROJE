@@ -51,7 +51,9 @@ public OnPlayerRequestClass(playerid, classid)
 }
 
 public OnPlayerConnect(playerid)
-{
+{   
+	RemoveBuildingForPlayer(playerid, 16095, 279.1328, 1829.7813, 16.6328, 0.25);
+    RemoveBuildingForPlayer(playerid, 16094, 191.1406, 1870.0391, 21.4766, 0.25);
     new pName[MAX_PLAYER_NAME], nStr[128];
     GetPlayerName(playerid, pName, MAX_PLAYER_NAME);
 	format(nStr, sizeof(nStr), "Sunucuya Hosgeldin - %s", pName);
