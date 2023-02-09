@@ -2344,3 +2344,66 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [17:01:08] Y : 1931.333129
 [17:01:08] Z : 17.640625
 [17:08:34] [part] Acheron_Cleuts has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:31] 
+[20:38:31] Server Plugins
+[20:38:31] --------------
+[20:38:31]  Loading plugin: sscanf
+[20:38:31] 
+[20:38:31]  ===============================
+[20:38:31] 
+[20:38:31]       sscanf plugin loaded.     
+[20:38:31] 
+[20:38:31]          Version: 2.13.8
+[20:38:31] 
+[20:38:31]    (c) 2022 Alex "Y_Less" Cole  
+[20:38:31] 
+[20:38:31]  ===============================
+[20:38:31] 
+[20:38:31]   Loaded.
+[20:38:31]  Loading plugin: mysql
+[20:38:31]  >> plugin.mysql: R41-4 successfully loaded.
+[20:38:31]   Loaded.
+[20:38:31]  Loading plugin: streamer
+[20:38:31] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[20:38:31]   Loaded.
+[20:38:31]  Loaded 3 plugins.
+
+[20:38:31] 
+[20:38:31] Filterscripts
+[20:38:31] ---------------
+[20:38:31]   Loading filterscript 'alan.amx'...
+[20:38:31]   Loading filterscript 'headshot.amx'...
+[20:38:31]   Loading filterscript 'teleport.amx'...
+[20:38:31]   Loading filterscript 'getir.amx'...
+[20:38:31]   Loading filterscript 'aracgetir.amx'...
+[20:38:31]   Loading filterscript 'textlabel.amx'...
+[20:38:31]   Loading filterscript 'komutlar.amx'...
+[20:38:31]   Loading filterscript 'addvehicle.amx'...
+[20:38:31]   Loading filterscript 'dmmode.amx'...
+[20:38:31]   Loading filterscript 'addobject.amx'...
+[20:38:31]   Loaded 10 filterscripts.
+
+[20:38:31] debug!!!
+[20:38:31] Objeler Yüklendi!
+[20:38:31] 
+----------------------------------
+[20:38:31]  Hoşgeldin Dogukan kodun calisiyor.
+[20:38:31] ----------------------------------
+
+[20:38:31] Number of vehicle models: 1
+[20:38:56] [connection] 192.168.1.7:60371 requests connection cookie.
+[20:38:57] [connection] incoming connection: 192.168.1.7:60371 id: 0
+[20:38:57] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[20:41:13] [part] Acheron_Cleuts has left the server (0:1)
