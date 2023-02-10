@@ -1,6 +1,22 @@
 #include <a_samp>
 #include <sscanf2>
 #include <zcmd>
+#include <a_mysql>
+new MYSQL:handle, errno;
+
+public OnFilterScriptInit()
+{
+	handle = mysql_connect("localhost", "root", "", "samp_db");
+	errno = mysql_errno(handle);
+ 
+if (errno != 0) 
+{
+    new error[100];
+ 
+    mysql_error(error, sizeof (error), handle);
+    printf("[ERROR] #%d '%s'", errno, error);
+}
+}
 
 COMMAND:komutlar(playerid){
     
@@ -17,6 +33,11 @@ return SendClientError(playerid, "Dogru Kullanim : /setskin id ");}
 
 SetPlayerSkin(playerid,skinid);
 SendClientMessage(playerid, 0xFF00FFAA, "Skin degistirildi");
+
+new query[256];
+format(query, sizeof(query), "INSERT INTO veriler (playerid, skinid) VALUES (%i, %i)", playerid, skinid);
+mysql_query(handle, query);
+
 
 return 1;
 }
