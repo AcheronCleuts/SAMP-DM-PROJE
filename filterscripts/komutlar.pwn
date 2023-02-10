@@ -84,6 +84,20 @@ COMMAND:paraver(playerid, params[]){
 	SendClientMessage(targetid, 0x00EE00, msg);
     SendClientMessage(playerid, 0x00EE00, "Kullaniciya para gonderildi.");
 	return 1;
+} 
+
+COMMAND:aracsil(playerid){
+    new i; 
+	if(!IsPlayerAdmin(playerid)){
+     return SendClientMessage(playerid, 0x00FF00, "Admin degilsiniz!");
+	}
+	for(i = 1; i < 200; i++){	
+		DestroyVehicle(i);		
+	}
+	AracYarat();
+	SendClientMessage(playerid, 0xFF00FF, "Oyundaki Tum araclari sildiniz!");
+	SendClientMessageToAll(0xFF00FF, "Oyundaki tum araclar silindi");
+	return 1;
 }
 
 SendClientError(playerid, str[]){
@@ -94,3 +108,9 @@ SendClientError(playerid, str[]){
    return 1;
 }
 
+AracYarat(){
+	CreateVehicle(520, 275.036651, 2023.495239, 17.640625, 0, 0, 0, 10, 0);
+    CreateVehicle(520, 276.654571, 1989.219604, 17.640625, 0, 0, 0, 10, 0);
+    CreateVehicle(520, 276.652313, 1955.979248, 17.640625, 0, 0, 0, 10, 0);
+	return 1;
+}
