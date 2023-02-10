@@ -3807,3 +3807,67 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 *** Streamer Plugin v2.9.6 by Incognito unloaded ***
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:16] 
+[01:04:16] Server Plugins
+[01:04:16] --------------
+[01:04:16]  Loading plugin: sscanf
+[01:04:16] 
+[01:04:16]  ===============================
+[01:04:16] 
+[01:04:16]       sscanf plugin loaded.     
+[01:04:16] 
+[01:04:16]          Version: 2.13.8
+[01:04:16] 
+[01:04:16]    (c) 2022 Alex "Y_Less" Cole  
+[01:04:16] 
+[01:04:16]  ===============================
+[01:04:16] 
+[01:04:16]   Loaded.
+[01:04:16]  Loading plugin: mysql
+[01:04:16]  >> plugin.mysql: R41-4 successfully loaded.
+[01:04:16]   Loaded.
+[01:04:16]  Loading plugin: streamer
+[01:04:16] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[01:04:16]   Loaded.
+[01:04:16]  Loaded 3 plugins.
+
+[01:04:16] 
+[01:04:16] Filterscripts
+[01:04:16] ---------------
+[01:04:16]   Loading filterscript 'alan.amx'...
+[01:04:16]   Loading filterscript 'headshot.amx'...
+[01:04:16]   Loading filterscript 'teleport.amx'...
+[01:04:16]   Loading filterscript 'getir.amx'...
+[01:04:16]   Loading filterscript 'aracgetir.amx'...
+[01:04:16]   Loading filterscript 'textlabel.amx'...
+[01:04:16]   Loading filterscript 'komutlar.amx'...
+[01:04:16]   Loading filterscript 'addvehicle.amx'...
+[01:04:16]   Loading filterscript 'dmmode.amx'...
+[01:04:16]   Loading filterscript 'addobject.amx'...
+[01:04:16]   Loading filterscript 'aracsil.amx'...
+[01:04:16]   Loaded 11 filterscripts.
+
+[01:04:16] debug!!!
+[01:04:16] Objeler Yuklendi!
+[01:04:16] 
+----------------------------------
+[01:04:16]  Hoşgeldin Dogukan kodun calisiyor.
+[01:04:16] ----------------------------------
+
+[01:04:16] Number of vehicle models: 1
+[01:04:46] [connection] 127.0.0.1:51164 requests connection cookie.
+[01:04:47] [connection] incoming connection: 127.0.0.1:51164 id: 0
+[01:04:48] [join] VC_19448 has joined the server (0:127.0.0.1)
+[01:05:21] [part] VC_19448 has left the server (0:1)
