@@ -75,11 +75,6 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
     return 1;
 }
 
-public OnPlayerDeath(playerid, killerid, reason){
-    
-    return 1;
-}
-
 COMMAND:savasgir(playerid){
     
     SetPlayerFightingStyle(playerid, 4);

@@ -2470,3 +2470,1107 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [00:48:59] [connection] incoming connection: 192.168.1.7:49637 id: 0
 [00:48:59] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
 [00:50:27] [part] Acheron_Cleuts has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:15] 
+[13:45:15] Server Plugins
+[13:45:15] --------------
+[13:45:15]  Loading plugin: sscanf
+[13:45:15] 
+[13:45:15]  ===============================
+[13:45:15] 
+[13:45:15]       sscanf plugin loaded.     
+[13:45:15] 
+[13:45:15]          Version: 2.13.8
+[13:45:15] 
+[13:45:15]    (c) 2022 Alex "Y_Less" Cole  
+[13:45:15] 
+[13:45:15]  ===============================
+[13:45:15] 
+[13:45:15]   Loaded.
+[13:45:15]  Loading plugin: mysql
+[13:45:15]  >> plugin.mysql: R41-4 successfully loaded.
+[13:45:15]   Loaded.
+[13:45:15]  Loading plugin: streamer
+[13:45:15] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[13:45:15]   Loaded.
+[13:45:15]  Loaded 3 plugins.
+
+[13:45:15] 
+[13:45:15] Filterscripts
+[13:45:15] ---------------
+[13:45:15]   Loading filterscript 'alan.amx'...
+[13:45:15]   Loading filterscript 'headshot.amx'...
+[13:45:15]   Loading filterscript 'teleport.amx'...
+[13:45:15]   Loading filterscript 'getir.amx'...
+[13:45:15]   Loading filterscript 'aracgetir.amx'...
+[13:45:15]   Loading filterscript 'textlabel.amx'...
+[13:45:15]   Loading filterscript 'komutlar.amx'...
+[13:45:15]   Loading filterscript 'addvehicle.amx'...
+[13:45:15]   Loading filterscript 'dmmode.amx'...
+[13:45:15]   Loading filterscript 'addobject.amx'...
+[13:45:15]   Loading filterscript 'kayit-mysql.amx'...
+[13:45:15]   Loaded 11 filterscripts.
+
+[13:45:15] debug!!!
+[13:45:15] Objeler Yuklendi!
+[13:45:15] MySQL baglaniyor...
+[13:45:15] MySQL baglandi!
+[13:45:15] 
+----------------------------------
+[13:45:15]  Hoşgeldin Dogukan kodun calisiyor.
+[13:45:15] ----------------------------------
+
+[13:45:15] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:33:10] 
+[15:33:10] Server Plugins
+[15:33:10] --------------
+[15:33:10]  Loading plugin: sscanf
+[15:33:10] 
+[15:33:10]  ===============================
+[15:33:10] 
+[15:33:10]       sscanf plugin loaded.     
+[15:33:10] 
+[15:33:10]          Version: 2.13.8
+[15:33:10] 
+[15:33:10]    (c) 2022 Alex "Y_Less" Cole  
+[15:33:10] 
+[15:33:10]  ===============================
+[15:33:10] 
+[15:33:10]   Loaded.
+[15:33:10]  Loading plugin: mysql
+[15:33:10]  >> plugin.mysql: R41-4 successfully loaded.
+[15:33:10]   Loaded.
+[15:33:10]  Loading plugin: streamer
+[15:33:10] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:33:10]   Loaded.
+[15:33:10]  Loaded 3 plugins.
+
+[15:33:10] 
+[15:33:10] Filterscripts
+[15:33:10] ---------------
+[15:33:10]   Loading filterscript 'alan.amx'...
+[15:33:10]   Loading filterscript 'headshot.amx'...
+[15:33:10]   Loading filterscript 'teleport.amx'...
+[15:33:10]   Loading filterscript 'getir.amx'...
+[15:33:10]   Loading filterscript 'aracgetir.amx'...
+[15:33:10]   Loading filterscript 'textlabel.amx'...
+[15:33:10]   Loading filterscript 'komutlar.amx'...
+[15:33:10]   Loading filterscript 'addvehicle.amx'...
+[15:33:10]   Loading filterscript 'dmmode.amx'...
+[15:33:10]   Loading filterscript 'addobject.amx'...
+[15:33:10]   Loading filterscript 'kayit-mysql.amx'...
+[15:33:10]   Loaded 11 filterscripts.
+
+[15:33:10] debug!!!
+[15:33:10] Objeler Yuklendi!
+[15:33:10] MySQL baglaniyor...
+[15:33:10] MySQL baglandi!
+[15:33:10] 
+----------------------------------
+[15:33:10]  Hoşgeldin Dogukan kodun calisiyor.
+[15:33:10] ----------------------------------
+
+[15:33:10] Number of vehicle models: 1
+[15:33:37] [connection] 192.168.1.7:56008 requests connection cookie.
+[15:33:38] [connection] incoming connection: 192.168.1.7:56008 id: 0
+[15:33:38] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:35:20] 
+[15:35:20] Server Plugins
+[15:35:20] --------------
+[15:35:20]  Loading plugin: sscanf
+[15:35:20] 
+[15:35:20]  ===============================
+[15:35:20] 
+[15:35:20]       sscanf plugin loaded.     
+[15:35:20] 
+[15:35:20]          Version: 2.13.8
+[15:35:20] 
+[15:35:20]    (c) 2022 Alex "Y_Less" Cole  
+[15:35:20] 
+[15:35:20]  ===============================
+[15:35:20] 
+[15:35:20]   Loaded.
+[15:35:20]  Loading plugin: mysql
+[15:35:20]  >> plugin.mysql: R41-4 successfully loaded.
+[15:35:20]   Loaded.
+[15:35:20]  Loading plugin: streamer
+[15:35:20] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:35:20]   Loaded.
+[15:35:20]  Loaded 3 plugins.
+
+[15:35:20] 
+[15:35:20] Filterscripts
+[15:35:20] ---------------
+[15:35:20]   Loading filterscript 'alan.amx'...
+[15:35:20]   Loading filterscript 'headshot.amx'...
+[15:35:20]   Loading filterscript 'teleport.amx'...
+[15:35:20]   Loading filterscript 'getir.amx'...
+[15:35:20]   Loading filterscript 'aracgetir.amx'...
+[15:35:20]   Loading filterscript 'textlabel.amx'...
+[15:35:20]   Loading filterscript 'komutlar.amx'...
+[15:35:20]   Loading filterscript 'addvehicle.amx'...
+[15:35:20]   Loading filterscript 'dmmode.amx'...
+[15:35:20]   Loading filterscript 'addobject.amx'...
+[15:35:20]   Loading filterscript 'kayit-mysql.amx'...
+[15:35:20]   Loaded 11 filterscripts.
+
+[15:35:20] debug!!!
+[15:35:20] Objeler Yuklendi!
+[15:35:20] MySQL baglaniyor...
+[15:35:20] MySQL baglandi!
+[15:35:20] 
+----------------------------------
+[15:35:20]  Hoşgeldin Dogukan kodun calisiyor.
+[15:35:20] ----------------------------------
+
+[15:35:20] Number of vehicle models: 1
+[15:35:28] [connection] 192.168.1.7:61651 requests connection cookie.
+[15:35:29] [connection] incoming connection: 192.168.1.7:61651 id: 0
+[15:35:29] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:37:29] 
+[15:37:29] Server Plugins
+[15:37:29] --------------
+[15:37:29]  Loading plugin: sscanf
+[15:37:29] 
+[15:37:29]  ===============================
+[15:37:29] 
+[15:37:29]       sscanf plugin loaded.     
+[15:37:29] 
+[15:37:29]          Version: 2.13.8
+[15:37:29] 
+[15:37:29]    (c) 2022 Alex "Y_Less" Cole  
+[15:37:29] 
+[15:37:29]  ===============================
+[15:37:29] 
+[15:37:29]   Loaded.
+[15:37:29]  Loading plugin: mysql
+[15:37:29]  >> plugin.mysql: R41-4 successfully loaded.
+[15:37:29]   Loaded.
+[15:37:29]  Loading plugin: streamer
+[15:37:29] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:37:29]   Loaded.
+[15:37:29]  Loaded 3 plugins.
+
+[15:37:29] 
+[15:37:29] Filterscripts
+[15:37:29] ---------------
+[15:37:29]   Loading filterscript 'alan.amx'...
+[15:37:29]   Loading filterscript 'headshot.amx'...
+[15:37:29]   Loading filterscript 'teleport.amx'...
+[15:37:29]   Loading filterscript 'getir.amx'...
+[15:37:29]   Loading filterscript 'aracgetir.amx'...
+[15:37:29]   Loading filterscript 'textlabel.amx'...
+[15:37:29]   Loading filterscript 'komutlar.amx'...
+[15:37:29]   Loading filterscript 'addvehicle.amx'...
+[15:37:29]   Loading filterscript 'dmmode.amx'...
+[15:37:29]   Loading filterscript 'addobject.amx'...
+[15:37:29]   Loading filterscript 'kayit-mysql.amx'...
+[15:37:29]   Loaded 11 filterscripts.
+
+[15:37:29] debug!!!
+[15:37:29] Objeler Yuklendi!
+[15:37:29] MySQL baglaniyor...
+[15:37:29] MySQL baglandi!
+[15:37:29] 
+----------------------------------
+[15:37:29]  Hoşgeldin Dogukan kodun calisiyor.
+[15:37:29] ----------------------------------
+
+[15:37:29] Number of vehicle models: 1
+[15:37:46] [connection] 192.168.1.7:54762 requests connection cookie.
+[15:37:47] [connection] incoming connection: 192.168.1.7:54762 id: 0
+[15:37:47] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:39:07] 
+[15:39:07] Server Plugins
+[15:39:07] --------------
+[15:39:07]  Loading plugin: sscanf
+[15:39:07] 
+[15:39:07]  ===============================
+[15:39:07] 
+[15:39:07]       sscanf plugin loaded.     
+[15:39:07] 
+[15:39:07]          Version: 2.13.8
+[15:39:07] 
+[15:39:07]    (c) 2022 Alex "Y_Less" Cole  
+[15:39:07] 
+[15:39:07]  ===============================
+[15:39:07] 
+[15:39:07]   Loaded.
+[15:39:07]  Loading plugin: mysql
+[15:39:07]  >> plugin.mysql: R41-4 successfully loaded.
+[15:39:07]   Loaded.
+[15:39:07]  Loading plugin: streamer
+[15:39:07] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:39:07]   Loaded.
+[15:39:07]  Loaded 3 plugins.
+
+[15:39:07] 
+[15:39:07] Filterscripts
+[15:39:07] ---------------
+[15:39:07]   Loading filterscript 'alan.amx'...
+[15:39:07]   Loading filterscript 'headshot.amx'...
+[15:39:07]   Loading filterscript 'teleport.amx'...
+[15:39:07]   Loading filterscript 'getir.amx'...
+[15:39:07]   Loading filterscript 'aracgetir.amx'...
+[15:39:07]   Loading filterscript 'textlabel.amx'...
+[15:39:07]   Loading filterscript 'komutlar.amx'...
+[15:39:07]   Loading filterscript 'addvehicle.amx'...
+[15:39:07]   Loading filterscript 'dmmode.amx'...
+[15:39:07]   Loading filterscript 'addobject.amx'...
+[15:39:07]   Loading filterscript 'kayit-mysql.amx'...
+[15:39:07]   Loaded 11 filterscripts.
+
+[15:39:07] debug!!!
+[15:39:07] Objeler Yuklendi!
+[15:39:07] MySQL baglaniyor...
+[15:39:07] MySQL baglandi!
+[15:39:07] 
+----------------------------------
+[15:39:07]  Hoşgeldin Dogukan kodun calisiyor.
+[15:39:07] ----------------------------------
+
+[15:39:07] Number of vehicle models: 1
+[15:39:10] [connection] 192.168.1.7:54372 requests connection cookie.
+[15:39:11] [connection] incoming connection: 192.168.1.7:54372 id: 0
+[15:39:11] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[15:39:11] Debug Playerconnected
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:05] 
+[15:40:05] Server Plugins
+[15:40:05] --------------
+[15:40:05]  Loading plugin: sscanf
+[15:40:05] 
+[15:40:05]  ===============================
+[15:40:05] 
+[15:40:05]       sscanf plugin loaded.     
+[15:40:05] 
+[15:40:05]          Version: 2.13.8
+[15:40:05] 
+[15:40:05]    (c) 2022 Alex "Y_Less" Cole  
+[15:40:05] 
+[15:40:05]  ===============================
+[15:40:05] 
+[15:40:05]   Loaded.
+[15:40:05]  Loading plugin: mysql
+[15:40:05]  >> plugin.mysql: R41-4 successfully loaded.
+[15:40:05]   Loaded.
+[15:40:05]  Loading plugin: streamer
+[15:40:05] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:40:05]   Loaded.
+[15:40:05]  Loaded 3 plugins.
+
+[15:40:05] 
+[15:40:05] Filterscripts
+[15:40:05] ---------------
+[15:40:05]   Loading filterscript 'alan.amx'...
+[15:40:05]   Loading filterscript 'headshot.amx'...
+[15:40:05]   Loading filterscript 'teleport.amx'...
+[15:40:05]   Loading filterscript 'getir.amx'...
+[15:40:05]   Loading filterscript 'aracgetir.amx'...
+[15:40:05]   Loading filterscript 'textlabel.amx'...
+[15:40:05]   Loading filterscript 'komutlar.amx'...
+[15:40:05]   Loading filterscript 'addvehicle.amx'...
+[15:40:05]   Loading filterscript 'dmmode.amx'...
+[15:40:05]   Loading filterscript 'addobject.amx'...
+[15:40:05]   Loading filterscript 'kayit-mysql.amx'...
+[15:40:05]   Loaded 11 filterscripts.
+
+[15:40:05] debug!!!
+[15:40:05] Objeler Yuklendi!
+[15:40:05] MySQL baglaniyor...
+[15:40:05] MySQL baglandi!
+[15:40:05] 
+----------------------------------
+[15:40:05]  Hoşgeldin Dogukan kodun calisiyor.
+[15:40:05] ----------------------------------
+
+[15:40:05] Number of vehicle models: 1
+[15:40:14] [connection] 192.168.1.7:63644 requests connection cookie.
+[15:40:15] [connection] incoming connection: 192.168.1.7:63644 id: 0
+[15:40:15] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[15:40:15] Debug Playerconnected
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:42:29] 
+[15:42:29] Server Plugins
+[15:42:29] --------------
+[15:42:29]  Loading plugin: sscanf
+[15:42:29] 
+[15:42:29]  ===============================
+[15:42:29] 
+[15:42:29]       sscanf plugin loaded.     
+[15:42:29] 
+[15:42:29]          Version: 2.13.8
+[15:42:29] 
+[15:42:29]    (c) 2022 Alex "Y_Less" Cole  
+[15:42:29] 
+[15:42:29]  ===============================
+[15:42:29] 
+[15:42:29]   Loaded.
+[15:42:29]  Loading plugin: mysql
+[15:42:29]  >> plugin.mysql: R41-4 successfully loaded.
+[15:42:29]   Loaded.
+[15:42:29]  Loading plugin: streamer
+[15:42:29] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[15:42:29]   Loaded.
+[15:42:29]  Loaded 3 plugins.
+
+[15:42:29] 
+[15:42:29] Filterscripts
+[15:42:29] ---------------
+[15:42:29]   Loading filterscript 'alan.amx'...
+[15:42:29]   Loading filterscript 'headshot.amx'...
+[15:42:29]   Loading filterscript 'teleport.amx'...
+[15:42:29]   Loading filterscript 'getir.amx'...
+[15:42:29]   Loading filterscript 'aracgetir.amx'...
+[15:42:29]   Loading filterscript 'textlabel.amx'...
+[15:42:29]   Loading filterscript 'komutlar.amx'...
+[15:42:29]   Loading filterscript 'addvehicle.amx'...
+[15:42:29]   Loading filterscript 'dmmode.amx'...
+[15:42:29]   Loading filterscript 'addobject.amx'...
+[15:42:29]   Loading filterscript 'kayit-mysql.amx'...
+[15:42:29]   Loaded 11 filterscripts.
+
+[15:42:29] debug!!!
+[15:42:29] Objeler Yuklendi!
+[15:42:29] MySQL baglaniyor...
+[15:42:29] MySQL baglandi!
+[15:42:29] 
+----------------------------------
+[15:42:29]  Hoşgeldin Dogukan kodun calisiyor.
+[15:42:29] ----------------------------------
+
+[15:42:29] Number of vehicle models: 1
+[15:42:58] [connection] 192.168.1.7:59097 requests connection cookie.
+[15:42:59] [connection] incoming connection: 192.168.1.7:59097 id: 0
+[15:42:59] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[15:42:59] Debug Playerconnected
+[15:43:43] [part] Acheron_Cleuts has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:11:28] 
+[18:11:28] Server Plugins
+[18:11:28] --------------
+[18:11:28]  Loading plugin: sscanf
+[18:11:28] 
+[18:11:28]  ===============================
+[18:11:28] 
+[18:11:28]       sscanf plugin loaded.     
+[18:11:28] 
+[18:11:28]          Version: 2.13.8
+[18:11:28] 
+[18:11:28]    (c) 2022 Alex "Y_Less" Cole  
+[18:11:28] 
+[18:11:28]  ===============================
+[18:11:28] 
+[18:11:28]   Loaded.
+[18:11:28]  Loading plugin: mysql
+[18:11:28]  >> plugin.mysql: R41-4 successfully loaded.
+[18:11:28]   Loaded.
+[18:11:28]  Loading plugin: streamer
+[18:11:28] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:11:28]   Loaded.
+[18:11:28]  Loaded 3 plugins.
+
+[18:11:28] 
+[18:11:28] Filterscripts
+[18:11:28] ---------------
+[18:11:28]   Loading filterscript 'alan.amx'...
+[18:11:28]   Loading filterscript 'headshot.amx'...
+[18:11:28]   Loading filterscript 'teleport.amx'...
+[18:11:28]   Loading filterscript 'getir.amx'...
+[18:11:28]   Loading filterscript 'aracgetir.amx'...
+[18:11:28]   Loading filterscript 'textlabel.amx'...
+[18:11:28]   Loading filterscript 'komutlar.amx'...
+[18:11:28]   Loading filterscript 'addvehicle.amx'...
+[18:11:28]   Loading filterscript 'dmmode.amx'...
+[18:11:28]   Loading filterscript 'addobject.amx'...
+[18:11:28]   Loading filterscript 'kayit-mysql.amx'...
+[18:11:28]   Loaded 11 filterscripts.
+
+[18:11:28] debug!!!
+[18:11:28] Objeler Yuklendi!
+[18:11:28] MySQL baglaniyor...
+[18:11:28] MySQL baglandi!
+[18:11:28] 
+----------------------------------
+[18:11:28]  Hoşgeldin Dogukan kodun calisiyor.
+[18:11:28] ----------------------------------
+
+[18:11:28] Number of vehicle models: 1
+[18:11:48] [connection] 192.168.1.7:63526 requests connection cookie.
+[18:11:49] [connection] incoming connection: 192.168.1.7:63526 id: 0
+[18:11:49] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[18:11:49] Debug Playerconnected
+[18:12:37] [part] Acheron_Cleuts has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:28:14] 
+[18:28:14] Server Plugins
+[18:28:14] --------------
+[18:28:14]  Loading plugin: sscanf
+[18:28:14] 
+[18:28:14]  ===============================
+[18:28:14] 
+[18:28:14]       sscanf plugin loaded.     
+[18:28:14] 
+[18:28:14]          Version: 2.13.8
+[18:28:14] 
+[18:28:14]    (c) 2022 Alex "Y_Less" Cole  
+[18:28:14] 
+[18:28:14]  ===============================
+[18:28:14] 
+[18:28:14]   Loaded.
+[18:28:14]  Loading plugin: mysql
+[18:28:14]  >> plugin.mysql: R41-4 successfully loaded.
+[18:28:14]   Loaded.
+[18:28:14]  Loading plugin: streamer
+[18:28:14] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:28:14]   Loaded.
+[18:28:14]  Loaded 3 plugins.
+
+[18:28:14] 
+[18:28:14] Filterscripts
+[18:28:14] ---------------
+[18:28:14]   Loading filterscript 'alan.amx'...
+[18:28:14]   Loading filterscript 'headshot.amx'...
+[18:28:14]   Loading filterscript 'teleport.amx'...
+[18:28:14]   Loading filterscript 'getir.amx'...
+[18:28:14]   Loading filterscript 'aracgetir.amx'...
+[18:28:14]   Loading filterscript 'textlabel.amx'...
+[18:28:14]   Loading filterscript 'komutlar.amx'...
+[18:28:14]   Loading filterscript 'addvehicle.amx'...
+[18:28:14]   Loading filterscript 'dmmode.amx'...
+[18:28:14]   Loading filterscript 'addobject.amx'...
+[18:28:14]   Loading filterscript 'kayit-mysql.amx'...
+[18:28:14]   Loaded 11 filterscripts.
+
+[18:28:14] debug!!!
+[18:28:14] Objeler Yuklendi!
+[18:28:14] MySQL baglaniyor...
+[18:28:14] MySQL baglantisi basarisiz
+[18:28:14] 
+----------------------------------
+[18:28:14]  Hoşgeldin Dogukan kodun calisiyor.
+[18:28:14] ----------------------------------
+
+[18:28:14] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:28:35] 
+[18:28:35] Server Plugins
+[18:28:35] --------------
+[18:28:35]  Loading plugin: sscanf
+[18:28:35] 
+[18:28:35]  ===============================
+[18:28:35] 
+[18:28:35]       sscanf plugin loaded.     
+[18:28:35] 
+[18:28:35]          Version: 2.13.8
+[18:28:35] 
+[18:28:35]    (c) 2022 Alex "Y_Less" Cole  
+[18:28:35] 
+[18:28:35]  ===============================
+[18:28:35] 
+[18:28:35]   Loaded.
+[18:28:35]  Loading plugin: mysql
+[18:28:35]  >> plugin.mysql: R41-4 successfully loaded.
+[18:28:35]   Loaded.
+[18:28:35]  Loading plugin: streamer
+[18:28:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:28:35]   Loaded.
+[18:28:35]  Loaded 3 plugins.
+
+[18:28:35] 
+[18:28:35] Filterscripts
+[18:28:35] ---------------
+[18:28:35]   Loading filterscript 'alan.amx'...
+[18:28:35]   Loading filterscript 'headshot.amx'...
+[18:28:35]   Loading filterscript 'teleport.amx'...
+[18:28:35]   Loading filterscript 'getir.amx'...
+[18:28:35]   Loading filterscript 'aracgetir.amx'...
+[18:28:35]   Loading filterscript 'textlabel.amx'...
+[18:28:35]   Loading filterscript 'komutlar.amx'...
+[18:28:35]   Loading filterscript 'addvehicle.amx'...
+[18:28:35]   Loading filterscript 'dmmode.amx'...
+[18:28:35]   Loading filterscript 'addobject.amx'...
+[18:28:35]   Loading filterscript 'kayit-mysql.amx'...
+[18:28:35]   Loaded 11 filterscripts.
+
+[18:28:35] debug!!!
+[18:28:35] Objeler Yuklendi!
+[18:28:35] MySQL baglaniyor...
+[18:28:35] MySQL baglandi!
+[18:28:35] 
+----------------------------------
+[18:28:35]  Hoşgeldin Dogukan kodun calisiyor.
+[18:28:35] ----------------------------------
+
+[18:28:35] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:56:35] 
+[18:56:35] Server Plugins
+[18:56:35] --------------
+[18:56:35]  Loading plugin: sscanf
+[18:56:35] 
+[18:56:35]  ===============================
+[18:56:35] 
+[18:56:35]       sscanf plugin loaded.     
+[18:56:35] 
+[18:56:35]          Version: 2.13.8
+[18:56:35] 
+[18:56:35]    (c) 2022 Alex "Y_Less" Cole  
+[18:56:35] 
+[18:56:35]  ===============================
+[18:56:35] 
+[18:56:35]   Loaded.
+[18:56:35]  Loading plugin: mysql
+[18:56:35]  >> plugin.mysql: R41-4 successfully loaded.
+[18:56:35]   Loaded.
+[18:56:35]  Loading plugin: streamer
+[18:56:35] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[18:56:35]   Loaded.
+[18:56:35]  Loaded 3 plugins.
+
+[18:56:35] 
+[18:56:35] Filterscripts
+[18:56:35] ---------------
+[18:56:35]   Loading filterscript 'alan.amx'...
+[18:56:35]   Loading filterscript 'headshot.amx'...
+[18:56:35]   Loading filterscript 'teleport.amx'...
+[18:56:35]   Loading filterscript 'getir.amx'...
+[18:56:35]   Loading filterscript 'aracgetir.amx'...
+[18:56:35]   Loading filterscript 'textlabel.amx'...
+[18:56:35]   Loading filterscript 'komutlar.amx'...
+[18:56:35]   Loading filterscript 'addvehicle.amx'...
+[18:56:35]   Loading filterscript 'dmmode.amx'...
+[18:56:35]   Loading filterscript 'addobject.amx'...
+[18:56:35]   Loading filterscript 'kayit-mysql.amx'...
+[18:56:35]   Loaded 11 filterscripts.
+
+[18:56:35] debug!!!
+[18:56:35] Objeler Yuklendi!
+[18:56:35] MySQL baglaniyor...
+[18:56:35] MySQL baglandi!
+[18:56:35] 
+----------------------------------
+[18:56:35]  Hoşgeldin Dogukan kodun calisiyor.
+[18:56:35] ----------------------------------
+
+[18:56:35] Number of vehicle models: 1
+[18:56:55] [connection] 192.168.1.7:49655 requests connection cookie.
+[18:56:56] [connection] incoming connection: 192.168.1.7:49655 id: 0
+[18:56:56] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[18:57:49] [part] Acheron_Cleuts has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:13:11] 
+[19:13:11] Server Plugins
+[19:13:11] --------------
+[19:13:11]  Loading plugin: sscanf
+[19:13:11] 
+[19:13:11]  ===============================
+[19:13:11] 
+[19:13:11]       sscanf plugin loaded.     
+[19:13:11] 
+[19:13:11]          Version: 2.13.8
+[19:13:11] 
+[19:13:11]    (c) 2022 Alex "Y_Less" Cole  
+[19:13:11] 
+[19:13:11]  ===============================
+[19:13:11] 
+[19:13:11]   Loaded.
+[19:13:11]  Loading plugin: mysql
+[19:13:11]  >> plugin.mysql: R41-4 successfully loaded.
+[19:13:11]   Loaded.
+[19:13:11]  Loading plugin: streamer
+[19:13:11] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:13:11]   Loaded.
+[19:13:11]  Loaded 3 plugins.
+
+[19:13:11] 
+[19:13:11] Filterscripts
+[19:13:11] ---------------
+[19:13:11]   Loading filterscript 'alan.amx'...
+[19:13:11]   Loading filterscript 'headshot.amx'...
+[19:13:11]   Loading filterscript 'teleport.amx'...
+[19:13:11]   Loading filterscript 'getir.amx'...
+[19:13:11]   Loading filterscript 'aracgetir.amx'...
+[19:13:11]   Loading filterscript 'textlabel.amx'...
+[19:13:11]   Loading filterscript 'komutlar.amx'...
+[19:13:11]   Loading filterscript 'addvehicle.amx'...
+[19:13:11]   Loading filterscript 'dmmode.amx'...
+[19:13:11]   Loading filterscript 'addobject.amx'...
+[19:13:11]   Loading filterscript 'kayit-mysql.amx'...
+[19:13:11] MySQL bağlantısı kuruluyor...
+[19:13:11] MySQL bağlantısı kuruldu!
+[19:13:11]   Loaded 11 filterscripts.
+
+[19:13:11] debug!!!
+[19:13:11] Objeler Yuklendi!
+[19:13:11] 
+----------------------------------
+[19:13:11]  Hoşgeldin Dogukan kodun calisiyor.
+[19:13:11] ----------------------------------
+
+[19:13:11] Number of vehicle models: 1
+[19:13:30] [connection] 192.168.1.7:60779 requests connection cookie.
+[19:13:31] [connection] incoming connection: 192.168.1.7:60779 id: 0
+[19:13:31] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:20:55] 
+[19:20:55] Server Plugins
+[19:20:55] --------------
+[19:20:55]  Loading plugin: sscanf
+[19:20:55] 
+[19:20:55]  ===============================
+[19:20:55] 
+[19:20:55]       sscanf plugin loaded.     
+[19:20:55] 
+[19:20:55]          Version: 2.13.8
+[19:20:55] 
+[19:20:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:20:55] 
+[19:20:55]  ===============================
+[19:20:55] 
+[19:20:55]   Loaded.
+[19:20:55]  Loading plugin: mysql
+[19:20:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:20:55]   Loaded.
+[19:20:55]  Loading plugin: streamer
+[19:20:55] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:20:55]   Loaded.
+[19:20:55]  Loaded 3 plugins.
+
+[19:20:56] 
+[19:20:56] Filterscripts
+[19:20:56] ---------------
+[19:20:56]   Loading filterscript 'alan.amx'...
+[19:20:56]   Loading filterscript 'headshot.amx'...
+[19:20:56]   Loading filterscript 'teleport.amx'...
+[19:20:56]   Loading filterscript 'getir.amx'...
+[19:20:56]   Loading filterscript 'aracgetir.amx'...
+[19:20:56]   Loading filterscript 'textlabel.amx'...
+[19:20:56]   Loading filterscript 'komutlar.amx'...
+[19:20:56]   Loading filterscript 'addvehicle.amx'...
+[19:20:56]   Loading filterscript 'dmmode.amx'...
+[19:20:56]   Loading filterscript 'addobject.amx'...
+[19:20:56]   Loading filterscript 'kayit-mysql.amx'...
+[19:20:56] MySQL bağlantısı kuruluyor...
+[19:20:56] MySQL bağlanıtısı başarısız!!
+[19:20:56]   Loaded 11 filterscripts.
+
+[19:20:56] debug!!!
+[19:20:56] Objeler Yuklendi!
+[19:20:56] 
+----------------------------------
+[19:20:56]  Hoşgeldin Dogukan kodun calisiyor.
+[19:20:56] ----------------------------------
+
+[19:20:56] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:12] 
+[19:22:12] Server Plugins
+[19:22:12] --------------
+[19:22:12]  Loading plugin: sscanf
+[19:22:12] 
+[19:22:12]  ===============================
+[19:22:12] 
+[19:22:12]       sscanf plugin loaded.     
+[19:22:12] 
+[19:22:12]          Version: 2.13.8
+[19:22:12] 
+[19:22:12]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:12] 
+[19:22:12]  ===============================
+[19:22:12] 
+[19:22:12]   Loaded.
+[19:22:12]  Loading plugin: mysql
+[19:22:12]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:12]   Loaded.
+[19:22:12]  Loading plugin: streamer
+[19:22:12] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:22:12]   Loaded.
+[19:22:12]  Loaded 3 plugins.
+
+[19:22:12] 
+[19:22:12] Filterscripts
+[19:22:12] ---------------
+[19:22:12]   Loading filterscript 'alan.amx'...
+[19:22:12]   Loading filterscript 'headshot.amx'...
+[19:22:12]   Loading filterscript 'teleport.amx'...
+[19:22:12]   Loading filterscript 'getir.amx'...
+[19:22:12]   Loading filterscript 'aracgetir.amx'...
+[19:22:12]   Loading filterscript 'textlabel.amx'...
+[19:22:12]   Loading filterscript 'komutlar.amx'...
+[19:22:12]   Loading filterscript 'addvehicle.amx'...
+[19:22:12]   Loading filterscript 'dmmode.amx'...
+[19:22:12]   Loading filterscript 'addobject.amx'...
+[19:22:12]   Loading filterscript 'kayit-mysql.amx'...
+[19:22:12] MySQL baglantisi kuruluyor...
+[19:22:12] MySQL baglantisi kuruldu!
+[19:22:12]   Loaded 11 filterscripts.
+
+[19:22:12] debug!!!
+[19:22:12] Objeler Yuklendi!
+[19:22:12] 
+----------------------------------
+[19:22:12]  Hoşgeldin Dogukan kodun calisiyor.
+[19:22:12] ----------------------------------
+
+[19:22:12] Number of vehicle models: 1
+[19:22:18] [connection] 192.168.1.7:60077 requests connection cookie.
+[19:22:19] [connection] incoming connection: 192.168.1.7:60077 id: 0
+[19:22:19] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:23:17] 
+[19:23:17] Server Plugins
+[19:23:17] --------------
+[19:23:17]  Loading plugin: sscanf
+[19:23:17] 
+[19:23:17]  ===============================
+[19:23:17] 
+[19:23:17]       sscanf plugin loaded.     
+[19:23:17] 
+[19:23:17]          Version: 2.13.8
+[19:23:17] 
+[19:23:17]    (c) 2022 Alex "Y_Less" Cole  
+[19:23:17] 
+[19:23:17]  ===============================
+[19:23:17] 
+[19:23:17]   Loaded.
+[19:23:17]  Loading plugin: mysql
+[19:23:17]  >> plugin.mysql: R41-4 successfully loaded.
+[19:23:17]   Loaded.
+[19:23:17]  Loading plugin: streamer
+[19:23:17] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:23:17]   Loaded.
+[19:23:17]  Loaded 3 plugins.
+
+[19:23:17] 
+[19:23:17] Filterscripts
+[19:23:17] ---------------
+[19:23:17]   Loading filterscript 'alan.amx'...
+[19:23:17]   Loading filterscript 'headshot.amx'...
+[19:23:17]   Loading filterscript 'teleport.amx'...
+[19:23:17]   Loading filterscript 'getir.amx'...
+[19:23:17]   Loading filterscript 'aracgetir.amx'...
+[19:23:17]   Loading filterscript 'textlabel.amx'...
+[19:23:17]   Loading filterscript 'komutlar.amx'...
+[19:23:17]   Loading filterscript 'addvehicle.amx'...
+[19:23:17]   Loading filterscript 'dmmode.amx'...
+[19:23:17]   Loading filterscript 'addobject.amx'...
+[19:23:17]   Loading filterscript 'kayit-mysql.amx'...
+[19:23:17] MySQL baglantisi kuruluyor...
+[19:23:17] MySQL baglantisi kuruldu!
+[19:23:17]   Loaded 11 filterscripts.
+
+[19:23:17] debug!!!
+[19:23:17] Objeler Yuklendi!
+[19:23:17] 
+----------------------------------
+[19:23:17]  Hoşgeldin Dogukan kodun calisiyor.
+[19:23:17] ----------------------------------
+
+[19:23:17] Number of vehicle models: 1
+[19:23:29] [connection] 192.168.1.7:64412 requests connection cookie.
+[19:23:30] [connection] incoming connection: 192.168.1.7:64412 id: 0
+[19:23:30] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:13] 
+[19:30:13] Server Plugins
+[19:30:13] --------------
+[19:30:13]  Loading plugin: sscanf
+[19:30:13] 
+[19:30:13]  ===============================
+[19:30:13] 
+[19:30:13]       sscanf plugin loaded.     
+[19:30:13] 
+[19:30:13]          Version: 2.13.8
+[19:30:13] 
+[19:30:13]    (c) 2022 Alex "Y_Less" Cole  
+[19:30:13] 
+[19:30:13]  ===============================
+[19:30:13] 
+[19:30:13]   Loaded.
+[19:30:13]  Loading plugin: mysql
+[19:30:13]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:13]   Loaded.
+[19:30:13]  Loading plugin: streamer
+[19:30:13] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:30:13]   Loaded.
+[19:30:13]  Loaded 3 plugins.
+
+[19:30:13] 
+[19:30:13] Filterscripts
+[19:30:13] ---------------
+[19:30:13]   Loading filterscript 'alan.amx'...
+[19:30:13]   Loading filterscript 'headshot.amx'...
+[19:30:13]   Loading filterscript 'teleport.amx'...
+[19:30:13]   Loading filterscript 'getir.amx'...
+[19:30:13]   Loading filterscript 'aracgetir.amx'...
+[19:30:13]   Loading filterscript 'textlabel.amx'...
+[19:30:13]   Loading filterscript 'komutlar.amx'...
+[19:30:13]   Loading filterscript 'addvehicle.amx'...
+[19:30:13]   Loading filterscript 'dmmode.amx'...
+[19:30:13]   Loading filterscript 'addobject.amx'...
+[19:30:13]   Loading filterscript 'kayit-mysql.amx'...
+[19:30:13] MySQL bağlantısı kuruluyor...
+[19:30:13] MySQL bağlantısı kuruldu!
+[19:30:13]   Loaded 11 filterscripts.
+
+[19:30:13] debug!!!
+[19:30:13] Objeler Yuklendi!
+[19:30:13] 
+----------------------------------
+[19:30:13]  Hoşgeldin Dogukan kodun calisiyor.
+[19:30:13] ----------------------------------
+
+[19:30:13] Number of vehicle models: 1
+[19:30:22] [connection] 192.168.1.7:56733 requests connection cookie.
+[19:30:23] [connection] incoming connection: 192.168.1.7:56733 id: 0
+[19:30:24] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+[19:30:47] [part] Acheron_Cleuts has left the server (0:1)
+[19:31:11] [connection] 192.168.1.7:61682 requests connection cookie.
+[19:31:12] [connection] incoming connection: 192.168.1.7:61682 id: 0
+[19:31:12] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:32:57] 
+[19:32:57] Server Plugins
+[19:32:57] --------------
+[19:32:57]  Loading plugin: sscanf
+[19:32:57] 
+[19:32:57]  ===============================
+[19:32:57] 
+[19:32:57]       sscanf plugin loaded.     
+[19:32:57] 
+[19:32:57]          Version: 2.13.8
+[19:32:57] 
+[19:32:57]    (c) 2022 Alex "Y_Less" Cole  
+[19:32:57] 
+[19:32:57]  ===============================
+[19:32:57] 
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: mysql
+[19:32:57]  >> plugin.mysql: R41-4 successfully loaded.
+[19:32:57]   Loaded.
+[19:32:57]  Loading plugin: streamer
+[19:32:57] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[19:32:57]   Loaded.
+[19:32:57]  Loaded 3 plugins.
+
+[19:32:57] 
+[19:32:57] Filterscripts
+[19:32:57] ---------------
+[19:32:57]   Loading filterscript 'alan.amx'...
+[19:32:57]   Loading filterscript 'headshot.amx'...
+[19:32:57]   Loading filterscript 'teleport.amx'...
+[19:32:57]   Loading filterscript 'getir.amx'...
+[19:32:57]   Loading filterscript 'aracgetir.amx'...
+[19:32:57]   Loading filterscript 'textlabel.amx'...
+[19:32:57]   Loading filterscript 'komutlar.amx'...
+[19:32:57]   Loading filterscript 'addvehicle.amx'...
+[19:32:57]   Loading filterscript 'dmmode.amx'...
+[19:32:57]   Loading filterscript 'addobject.amx'...
+[19:32:57]   Loading filterscript 'kayit-mysql.amx'...
+[19:32:57] MySQL bağlantısı kuruluyor...
+[19:32:57] MySQL bağlantısı kuruldu!
+[19:32:57]   Loaded 11 filterscripts.
+
+[19:32:57] debug!!!
+[19:32:57] Objeler Yuklendi!
+[19:32:57] 
+----------------------------------
+[19:32:57]  Hoşgeldin Dogukan kodun calisiyor.
+[19:32:57] ----------------------------------
+
+[19:32:57] Number of vehicle models: 1
+[19:33:22] [connection] 192.168.1.7:62161 requests connection cookie.
+[19:33:23] [connection] incoming connection: 192.168.1.7:62161 id: 0
+[19:33:23] [join] Acheron_Cleuts has joined the server (0:192.168.1.7)

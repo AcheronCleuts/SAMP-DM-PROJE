@@ -18,3 +18,20 @@ public OnPlayerTakeDamage(playerid, issuerid, Float: amount, weaponid, bodypart)
      }
      return 1;
 }
+
+public OnPlayerDeath(playerid, killerid, reason){
+    new killerName[MAX_PLAYER_NAME], playerName[MAX_PLAYER_NAME];
+    new nStr[200];
+    new killerScore;
+
+    GetPlayerName(playerid, playerName, MAX_PLAYER_NAME);
+    GetPlayerName(killerid, killerName, MAX_PLAYER_NAME);
+
+    format(nStr, sizeof(nStr), "{FF00FF}%s {FF00FF}[%i], %s [%i]'Yi oldurdu!", killerName, killerid, playerName, playerid);
+    
+    killerScore = GetPlayerScore(killerid);
+    SetPlayerScore(killerid, killerScore + 1);
+    SendClientMessageToAll(0x00FF00, nStr);
+
+    return 1;
+}
