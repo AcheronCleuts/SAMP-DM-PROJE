@@ -1,22 +1,6 @@
 #include <a_samp>
 #include <sscanf2>
 #include <zcmd>
-#include <a_mysql>
-new MYSQL:handle, errno;
-
-public OnFilterScriptInit()
-{
-	handle = mysql_connect("localhost", "root", "", "samp_db");
-	errno = mysql_errno(handle);
- 
-if (errno != 0) 
-{
-    new error[100];
- 
-    mysql_error(error, sizeof (error), handle);
-    printf("[ERROR] #%d '%s'", errno, error);
-}
-}
 
 COMMAND:komutlar(playerid){
     
@@ -33,11 +17,6 @@ return SendClientError(playerid, "Dogru Kullanim : /setskin id ");}
 
 SetPlayerSkin(playerid,skinid);
 SendClientMessage(playerid, 0xFF00FFAA, "Skin degistirildi");
-
-new query[256];
-format(query, sizeof(query), "INSERT INTO veriler (playerid, skinid) VALUES (%i, %i)", playerid, skinid);
-mysql_query(handle, query);
-
 
 return 1;
 }
@@ -130,8 +109,8 @@ SendClientError(playerid, str[]){
 }
 
 AracYarat(){
-	CreateVehicle(520, 275.036651, 2023.495239, 17.640625, 0, 0, 0, 10, 0);
-    CreateVehicle(520, 276.654571, 1989.219604, 17.640625, 0, 0, 0, 10, 0);
-    CreateVehicle(520, 276.652313, 1955.979248, 17.640625, 0, 0, 0, 10, 0);
+	CreateVehicle(520, 275.036651, 2023.495239, 17.640625, -850.0, 0, 0, 10, 0);
+    CreateVehicle(520, 276.654571, 1989.219604, 17.640625, -850.0, 0, 0, 10, 0);
+    CreateVehicle(520, 276.652313, 1955.979248, 17.640625, -850.0, 0, 0, 10, 0);
 	return 1;
 }
