@@ -12,7 +12,7 @@ public OnPlayerTakeDamage(playerid, issuerid, Float: amount, weaponid, bodypart)
             }default:{
                 new Float:can;
                 GetPlayerHealth(playerid, can);
-                SetPlayerHealth(playerid, can - 50.0);
+                SetPlayerHealth(playerid, can - 20.0);
             }
         }
      }
@@ -34,7 +34,9 @@ public OnPlayerDeath(playerid, killerid, reason){
     }
 
     format(nStr, sizeof(nStr), "{FF00FF}%s {FF00FF}[%i], %s [%i]'Yi oldurdu!", killerName, killerid, playerName, playerid);
-    
+    SendClientMessage(killerid, 0xFF00FF, "Can ve zirhiniz fullendi!");
+    SetPlayerArmour(killerid, 100.0);
+    SetPlayerHealth(killerid, 100.0);
     killerScore = GetPlayerScore(killerid);
     SetPlayerScore(killerid, killerScore + 1);
     SendClientMessageToAll(0x00FF00, nStr);
