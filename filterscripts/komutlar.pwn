@@ -100,6 +100,25 @@ COMMAND:aracsil(playerid){
 	return 1;
 }
 
+COMMAND:patlat(playerid, params[]){
+  
+   new Float:x, Float:y, Float:z;
+   new targetid;
+   if(sscanf(params, "i", targetid)){
+	return SendClientMessage(playerid, 0xff00ff, "Kimi patlatmak istiyorsun?");
+   }
+   
+   GetPlayerPos(targetid, x, y, z);
+   CreateExplosion(x, y, z, 2, 10.0);
+   CreateExplosion(x, y, z, 5, 10.0);
+   CreateExplosion(x, y, z, 9, 10.0);
+
+   SendClientMessageToAll(0xFFFFFF, "ALLAHUAKBARRRRRR");
+
+   return 1;
+
+}
+
 SendClientError(playerid, str[]){
   
    new nStr[128];

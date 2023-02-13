@@ -10,6 +10,12 @@ enum _dialog{
 #define DIALOG_WAR 0
 #define DIALOG_SPAWN 1
 
+public OnPlayerConnect(playerid){
+    
+    
+    return 1;
+}
+
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
     switch(dialogid){
         case DIALOG_WAR:{
@@ -77,15 +83,9 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[]){
 
 COMMAND:savasgir(playerid){
     
-    SetPlayerFightingStyle(playerid, 4);
     ShowPlayerDialog(playerid, DIALOG_WAR, DIALOG_STYLE_LIST, "Sinif Seciniz","Piyade \nKeskin Nisanci\nAgir Roket \nPilot", "Savasa Gir","");
 
     return 1;
-}
-COMMAND:ayril(playerid){
-    SetPlayerFightingStyle(playerid, 0);
-    SetPlayerHealth(playerid, 0.0);
-    SendClientMessage(playerid, 0xFF00FF, "Savas modundan ciktiniz!");
 }
 
 SpawnPoint(playerid){

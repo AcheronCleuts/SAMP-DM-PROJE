@@ -26,11 +26,9 @@ public OnPlayerDeath(playerid, killerid, reason){
 
     GetPlayerName(playerid, playerName, MAX_PLAYER_NAME);
     GetPlayerName(killerid, killerName, MAX_PLAYER_NAME);
+    
     if(killerid == 65535){
-        new msg[100];
-        format(msg, sizeof(msg), "%s [%i] Gerizekali oldugu icin oldu", playerName, playerid);
-        return SendClientMessageToAll(0x00FF00, msg);
-         
+         return 0;
     }
 
     format(nStr, sizeof(nStr), "{FF00FF}%s {FF00FF}[%i], %s [%i]'Yi oldurdu!", killerName, killerid, playerName, playerid);

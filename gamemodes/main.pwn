@@ -32,8 +32,11 @@ main()
 public OnGameModeInit()
 {
 	// Don't use these lines if it's a filterscript
-	SetGameModeText("main");
-	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
+	SetGameModeText("BETA DM");
+	new i;
+	for(i = 1; i < 311; i++){
+		AddPlayerClass(i, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
+	}
 	return 1;
 }
 
@@ -43,10 +46,11 @@ public OnGameModeExit()
 }
 
 public OnPlayerRequestClass(playerid, classid)
-{
-	SetPlayerPos(playerid, 1958.3783, 1343.1572, 15.3746);
-	SetPlayerCameraPos(playerid, 1958.3783, 1343.1572, 15.3746);
-	SetPlayerCameraLookAt(playerid, 1958.3783, 1343.1572, 15.3746);
+{   
+	SetPlayerPos(playerid, -2080.4919, 242.6367, 105.8890);
+	SetPlayerFacingAngle(playerid, 187.0440);
+	SetPlayerCameraPos(playerid, -2087.8054, 231.7423, 110.4536);
+	SetPlayerCameraLookAt(playerid, -2080.4919, 242.6367, 105.8890);
 	return 1;
 }
 
